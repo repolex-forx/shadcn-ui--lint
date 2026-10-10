@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/shadcn-ui/lint/commit/ee9391038b5dc025f01777d8dbd0f72d5b885ab4",
       "git:hexsha": "ee9391038b5dc025f01777d8dbd0f72d5b885ab4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/shadcn-ui/lint/commit/bf89dcb7f66a306c7ac4943065298902afdbd969",

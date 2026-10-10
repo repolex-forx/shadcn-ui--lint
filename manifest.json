@@ -320,6 +320,9 @@
         "blob/6cb03a2887595b7d0bc4f1f8aad0af4707778210.nq.gz",
         "blob/dea1a75e99877052990418ad6201e40f99f047e6.nq.gz",
         "blob/d44931364fd1986cf4c94de51d79f2d6cd4a0130.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/ee9391038b5dc025f01777d8dbd0f72d5b885ab4/chunk-001.nq.gz"
       ]
     }
   ],
